@@ -1,3 +1,4 @@
+# Test de control de Husky para empujar cajas fuera del corredor usando solo LiDAR
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.patches import Rectangle
